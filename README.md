@@ -1,2 +1,3 @@
 # Cryptography-Project-II
-Phase II: Developing software for receiving messages from other clients
+## Phase I: Developing software for the Registration and Station-to-Station Protocols
+## Phase II: Developing software for receiving messages from other clients
